@@ -1,0 +1,2 @@
+{sanoyfresco.db} filter=lfs diff=lfs merge=lfs -text
+analisis/sanoyfresco.db filter=lfs diff=lfs merge=lfs -text
